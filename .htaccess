@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^$ /advanced-special [L]
+RewriteRule ^$ startdropship.github.io/graphydo.github.io/advanced-special [L]
